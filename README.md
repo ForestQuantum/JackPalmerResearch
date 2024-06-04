@@ -20,3 +20,5 @@
 * [MATE (Multi-Architectural Testing Environment)](https://github.com/gnisrever/MATE)
 
 ## Contributions
+* [Ghidra](https://github.com/gnisrever/ghidra)
+* [Cheat Engine](https://github.com/gnisrever/cheat-engine)
