@@ -25,7 +25,7 @@
 
 | Tool       | Description                                                  |
 |------------|--------------------------------------------------------------|
-| [CTF Write-Ups](https://github.com/gnisrever/ctf-write-ups)  | Reverse Engineering Capture the Flag Write-Ups         |
+| [CTF Write-Ups](https://github.com/gnisrever/ctf-write-ups)  | Reverse Engineering, Cryptography, and Binary Exploitation Capture the Flag Write-Ups         |
 
 ## 🤝 Contributions
 
