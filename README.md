@@ -12,7 +12,7 @@
 * 🎓 Bachelor of Computer Science (Cybersecurity)
 * 🎓 Bachelor of Software Engineering (Artificial Intelligence)
 * ⌨️ Proficient in Assembly, C, C++, Rust, Go, Java, and Python
-* 🐉 Expert in Ghidra
+* 🐉 Expert in Radare2
 * 📝 Daily publisher of advanced CTF write-ups
 * 🛠️ Creator of MATE (Multi-Architectural Testing Environment)
 
