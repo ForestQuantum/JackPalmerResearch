@@ -19,7 +19,7 @@
 
 | Tool       | Description                                                  |
 |------------|--------------------------------------------------------------|
-| [mate](https://github.com/gnisrever/mate)  | Multi-Architectural Testing Environment        |
+| [sad](https://github.com/gnisrever/sad)  | Simple Assembly Developer for Linux        |
 | [r2crypt](https://github.com/gnisrever/r2crypt) | Radare2 plugin for advanced encryption, decryption, and hashing |
 
 ## 🔍 Research
