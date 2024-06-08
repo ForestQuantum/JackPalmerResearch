@@ -19,7 +19,7 @@
 
 | Tool       | Description                                                  |
 |------------|--------------------------------------------------------------|
-| [MATE](https://github.com/gnisrever/MATE)  | Multi-Architectural Testing Environment        |
+| [mate](https://github.com/gnisrever/mate)  | Multi-Architectural Testing Environment        |
 | [r2crypt](https://github.com/gnisrever/r2crypt) | Radare2 plugin for advanced encryption, decryption, and hashing |
 
 ## 🔍 Research
