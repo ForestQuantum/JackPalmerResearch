@@ -8,9 +8,9 @@
 
 ## 📖 About me
 
-* 💻 Professional Reverse Engineer & Cryptographer
+* 💻 Professional Reverse Engineer
 * 🎓 Bachelor of Computer Science (Cybersecurity)
-* 🎓 Bachelor of Science (Mathematics)
+* 🎓 Bachelor of Software Engineering (Artificial Intelligence)
 * ⌨️ Proficient in Assembly, C, C++, and Python
 * 📝 Daily publisher of advanced CTF write-ups
 * 🛠️ Creator of sad (Simple Assembly Developer for Linux)
