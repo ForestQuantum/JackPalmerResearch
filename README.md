@@ -8,12 +8,12 @@
 
 ## 📖 About me
 
-* 💻 Professional Reverse Engineer
+* 💻 Professional Reverse Engineer & Cryptographer
 * 🎓 Bachelor of Computer Science (Cybersecurity)
-* 🎓 Bachelor of Software Engineering (Artificial Intelligence)
-* ⌨️ Proficient in Assembly, C, C++, Rust, Go, Java, and Python
+* 🎓 Bachelor of Science (Mathematics)
+* ⌨️ Proficient in Assembly, C, C++, and Python
 * 📝 Daily publisher of advanced CTF write-ups
-* 🛠️ Creator of MATE (Multi-Architectural Testing Environment)
+* 🛠️ Creator of sad (Simple Assembly Developer for Linux)
 
 ## 📂 Projects
 
