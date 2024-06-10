@@ -3,12 +3,12 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jack Palmer (grisrever)</h1>
-<h3 align="center">Reverse Engineering | Cryptography | Binary Exploitation</h3>
+<h3 align="center">Reverse Engineering | Cryptology | Binary Exploitation</h3>
 <p align="center">
 
 ## 📖 About me
 
-* 💻 Professional Reverse Engineer and Cryptographer
+* 💻 Professional Reverse Engineer and Cryptanalyst
 * 🎓 Bachelor of Computer Science (Cybersecurity)
 * 🎓 Bachelor of Science (Mathematics)
 * ⌨️ Proficient in Assembly, C, C++, and Python
