@@ -11,6 +11,7 @@
 * 💻 Professional Reverse Engineer and Cryptanalyst
 * 🎓 Bachelor of Computer Science (Cybersecurity)
 * 🎓 Bachelor of Science (Mathematics)
+* Expert in Static Analysis
 * ⌨️ Proficient in Assembly, C, C++, and Python
 * 📝 Daily publisher of advanced CTF write-ups
 * 🛠️ Creator of sad (Simple Assembly Developer for Linux)
