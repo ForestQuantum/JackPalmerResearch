@@ -8,7 +8,7 @@
 
 ## 📖 About me
 
-* 💻 Professional Reverse Engineer and Cryptanalyst
+* 💻 Professional Reverse Engineer and Cryptologist
 * 🎓 Bachelor of Computer Science (Cybersecurity)
 * 🎓 Bachelor of Science (Mathematics)
 * Expert in Static Analysis
