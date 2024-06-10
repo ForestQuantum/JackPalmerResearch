@@ -8,12 +8,13 @@
 
 ## 📖 About me
 
-* 💻 Professional Reverse Engineer
+* 💻 Professional Reverse Engineer and Cryptographer
 * 🎓 Bachelor of Computer Science (Cybersecurity)
-* 🎓 Bachelor of Software Engineering (Artificial Intelligence)
+* 🎓 Bachelor of Science (Mathematics)
 * ⌨️ Proficient in Assembly, C, C++, and Python
 * 📝 Daily publisher of advanced CTF write-ups
 * 🛠️ Creator of sad (Simple Assembly Developer for Linux)
+* 🛠️ Creator of r2crypt (Radare2 plugin for advanced encryption, decryption, and hashing)
 
 ## 📂 Projects
 
