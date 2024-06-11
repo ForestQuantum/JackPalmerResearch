@@ -28,7 +28,7 @@
 
 | Tool       | Description                                                  |
 |------------|--------------------------------------------------------------|
-| [CTF Write-Ups](https://github.com/gnisrever/ctf-write-ups)  | Reverse Engineering, Cryptography, and Binary Exploitation Capture the Flag Write-Ups         |
+| [Cryptography Challenges Write-Ups](https://github.com/gnisrever/cryptography-write-ups)  | Advanced Cryptography Capture the Flag Write-Ups         |
 
 ## 🤝 Contributions
 
@@ -39,6 +39,8 @@
 | [john](https://github.com/gnisrever/john)  | Advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs | C |
 | [upx](https://github.com/gnisrever/upx)  | The Ultimate Packer for eXecutables | C |
 | [GnuPG](https://github.com/gnisrever/gnupg)  | The GNU Privacy Guard | C |
+| [libecc](https://github.com/gnisrever/libecc)  | Library for elliptic curves cryptography | C |
+| [MIRACL](https://github.com/gnisrever/MIRACL)  | Advanced SDK for elliptic curve cryptography (ECC) | C |
 | [Libgcrypt](https://github.com/gnisrever/libgcrypt)  | The GNU crypto library | C |
 | [radare2](https://github.com/gnisrever/radare2) | UNIX-like reverse engineering framework and command-line toolset   | C |
 | [GPGME](https://github.com/gnisrever/gpgme)  | GnuPG Made Easy | C |
