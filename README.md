@@ -20,6 +20,7 @@
 
 | Tool       | Description                                                  |
 |------------|--------------------------------------------------------------|
+| [otp](https://github.com/gnisrever/otp) | One-Time Photo (A modern variation of the One-Time Pad) |
 | [sad](https://github.com/gnisrever/sad)  | Simple Assembly Developer for Linux        |
 | [r2crypt](https://github.com/gnisrever/r2crypt) | Radare2 plugin for advanced encryption, decryption, and hashing |
 
