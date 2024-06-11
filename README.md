@@ -32,11 +32,16 @@
 
 ## 🤝 Contributions
 
-| Tool       | Description                                                  |
-|------------|--------------------------------------------------------------|
-| [radare2](https://github.com/gnisrever/radare2) | UNIX-like reverse engineering framework and command-line toolset        |
-| [r2ghidra](https://github.com/gnisrever/r2ghidra)  | Native Ghidra Decompiler for r2 |
-| [iaito](https://github.com/gnisrever/iaito) | Official QT frontend of radare2  |
-| [Ghidra](https://github.com/gnisrever/ghidra)  | Ghidra is a software reverse engineering (SRE) framework |
-| [Cheat Engine](https://github.com/gnisrever/cheat-engine)  | Cheat Engine. A development environment focused on modding |
+| Tool       | Description                                                  | Language |
+|------------|--------------------------------------------------------------|----------|
+| [openssl](https://github.com/gnisrever/openssl)  | TLS/SSL and crypto library | C |
+| [hashcat](https://github.com/gnisrever/hashcat)  | World's fastest and most advanced password recovery utility | C |
+| [john](https://github.com/gnisrever/john)  | Advanced offline password cracker, which supports hundreds of hash and cipher types, and runs on many operating systems, CPUs, GPUs, and even some FPGAs | C |
+| [upx](https://github.com/gnisrever/upx)  | The Ultimate Packer for eXecutables | C |
+| [GnuPG](https://github.com/gnisrever/gnupg)  | The GNU Privacy Guard | C |
+| [Libgcrypt](https://github.com/gnisrever/libgcrypt)  | The GNU crypto library | C |
+| [radare2](https://github.com/gnisrever/radare2) | UNIX-like reverse engineering framework and command-line toolset   | C |
+| [GPGME](https://github.com/gnisrever/gpgme)  | GnuPG Made Easy | C |
+| [VeraCrypt](https://github.com/gnisrever/VeraCrypt) | Disk encryption with strong security based on TrueCrypt | C |
+| [TinyCrypt](https://github.com/gnisrever/tinycrypt)  | A library of cryptographic algorithms with a focus on small, simple implementation | C |
 
