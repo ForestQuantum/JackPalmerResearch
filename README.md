@@ -3,17 +3,18 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jack Palmer (grisrever)</h1>
-<h3 align="center">Cryptology Researcher</h3>
+<h3 align="center">Cryptology | Mathematics | Machine Learning</h3>
 <p align="center">
 
 ## 📖 About me
 
-* 💻 Professional Cryptologist
+* 💻 Professional Mathematician & Cryptologist
 * 🎓 Bachelor of Science (Mathematics)
 * 🎓 Bachelor of Computer Science (Cybersecurity)
-* ⌨️ Proficient in Assembly, C, C++, and Python
-* 📝 Daily publisher of advanced CTF write-ups
-* 🛠️ Creator of sad (Simple Assembly Developer for Linux)
+* 🎓 Certified TensorFlow developer 
+* ⌨️ Proficient in Elliptic Curve Cryptography, Computational Cryptanalysis, Quantum Cryptography, and Number Theory.
+* 📝 Daily publisher of advanced Cryptology CTF write-ups
+* 🛠️ Creator of OTP | One-Time Photo (A modern variation of the One-Time Pad)
 * 🛠️ Creator of r2crypt (Radare2 plugin for advanced encryption, decryption, and hashing)
 
 ## 📂 Projects
