@@ -10,8 +10,8 @@
 
 * 💻 Professional Mathematician & Cryptologist
 * 🎓 Bachelor of Science (Mathematics)
-* 🎓 Bachelor of Computer Science (Cybersecurity)
-* 🎓 Certified TensorFlow developer 
+* 🎓 Bachelor of Computer Science (Machine Learning)
+* 🎓 Certified TensorFlow developer
 * ⌨️ Proficient in Elliptic Curve Cryptography, Computational Cryptanalysis, Quantum Cryptography, and Number Theory.
 * 📝 Daily publisher of advanced Cryptology CTF write-ups
 * 🛠️ Creator of OTP | One-Time Photo (A modern variation of the One-Time Pad)
