@@ -12,11 +12,9 @@
 * 🎓 Bachelor of Science (Mathematics)
 * 🎓 Bachelor of Computer Science (Machine Learning)
 * 🎓 Certified TensorFlow developer
-* ⌨️ Proficient in Elliptic Curve Cryptography, Computational Cryptanalysis, Quantum Cryptography, and Number Theory.
-* ⌨️ Proficient in Mathematica
-* 📝 Daily publisher of advanced Cryptology CTF write-ups
-* 🛠️ Creator of OTP | One-Time Photo (A modern variation of the One-Time Pad)
-* 🛠️ Creator of r2crypt (Radare2 plugin for advanced encryption, decryption, and hashing)
+* ⌨️ Proficient in Algorithms, Proof Theory, Theoretical Computer Science, and Number Theory.
+* ⌨️ Expert in Mathematica
+* 📝 Daily Publisher of Advanced Mathematics Research
 
 ## 📂 Projects
 
