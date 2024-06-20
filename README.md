@@ -3,16 +3,17 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Jack Palmer</h1>
-<h3 align="center">Quantum Computing | Mathematics | Machine Learning</h3>
+<h3 align="center">Mathematics | Quantum Computing | Machine Learning</h3>
 <p align="center">
 
 ## 📖 About me
 
-* 💻 Professional Mathematician & Cryptologist
+* 💻 Professional Mathematician
 * 🎓 Bachelor of Science (Mathematics)
 * 🎓 Bachelor of Computer Science (Machine Learning)
 * 🎓 Certified TensorFlow developer
 * ⌨️ Proficient in Elliptic Curve Cryptography, Computational Cryptanalysis, Quantum Cryptography, and Number Theory.
+* ⌨️ Proficient in Mathematica
 * 📝 Daily publisher of advanced Cryptology CTF write-ups
 * 🛠️ Creator of OTP | One-Time Photo (A modern variation of the One-Time Pad)
 * 🛠️ Creator of r2crypt (Radare2 plugin for advanced encryption, decryption, and hashing)
