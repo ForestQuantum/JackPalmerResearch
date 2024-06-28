@@ -8,9 +8,9 @@
 
 ## 📖 About me
 
-* 💻 Professional Mathematician
-* 🎓 Bachelor of Science (Mathematics)
-* 🎓 Bachelor of Computer Science (Machine Learning)
+* 💻 Professional Quantum Computing Algorithm Scientist
+* 🎓 Bachelor of Science (Mathematics) (Applied Physics)
+* 🎓 Bachelor of Computer Science (Theoretical Computer Science)
 * 🎓 Certified TensorFlow developer
 * ⌨️ Proficient in Algorithms, Proof Theory, Theoretical Computer Science, and Number Theory.
 * ⌨️ Expert in Mathematica
